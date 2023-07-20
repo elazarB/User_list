@@ -48,7 +48,7 @@ practice
 To run a local copy of this project, follow these steps.
 
 ### Prerequisites:
-.NET SDK (version 2.13.2 or higher)
+.NET SDK (version 6.0 or higher)
 
 ### installation:
 1. Layer the buffer:
