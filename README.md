@@ -66,10 +66,10 @@ To import the data, make a "GET" request to the address "http://localhost:5142/a
 To import a single piece of data, make a "GET" request to the address "http://localhost:5142/api/clients/:_id"
 
 To import data according to a certain parameter, contact the address with a "GET" request
-  "http://localhost:5142/api/clients/searchBy?<parameter>=<text>"
+  "http://localhost:5142/api/clients/searchBy?PARAMETER=TEXT"
 
 To import data according to a free search, contact the address with a "GET" request
-  ("http://localhost:5142/api/clients/search?s=<text>")
+  ("http://localhost:5142/api/clients/search?s=TEXT")
 
 To add a data, you must contact the address ("http://localhost:5142/api/clients") in a "POST" request
 
